@@ -1,0 +1,662 @@
+.progress{
+    top: 30%;
+}
+
+.con{
+    position: absolute;
+    color: rgb(255, 255, 255);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    top: 272%;
+    left: 45%;
+    font-size:30px;
+    text-align: center;
+}
+.SER{
+    position: absolute;
+    color: rgb(255, 255, 255);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    top: 210%;
+    left: 45%;
+    font-size:30px;
+    text-align: center;
+    
+}
+.box6{
+    position:absolute;
+    top: 2567px;
+    height: 370px;
+    width: 1750px;
+    background-color:#002444;
+    left: 4%;
+}
+.box5{
+    position:absolute;
+    top: 1967px;
+    height: 600px;
+    width: 1750px;
+    background-color:#011627;
+    opacity: 100%;
+    left: 4%;
+}
+.PORT{
+    
+        position: absolute;
+        color: rgb(255, 255, 255);
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+        top: 168%;
+        left: 44%;
+        font-size:30px
+        
+    }
+    
+
+.box4{
+    
+    position:absolute;
+    top: 1600px;
+    height: 370px;
+    width: 1750px;
+    background-color:#002444;
+    left: 4%;
+    
+}
+.SKILLS{
+    position: absolute;
+    color: rgb(255, 255, 255);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    top: 106%;
+    left: 45%;
+    font-size:30px
+}
+.j{
+    position: absolute;
+    top: 106%;
+    left: 47%;
+    height: 65%;
+}
+.box3{
+    
+    position:absolute;
+    top: 1000px;
+    height: 600px;
+    width: 1750px;
+    background-color:#011627;
+    opacity: 100%;
+    left: 4%;
+    
+}
+.abo1{
+    position: absolute;
+    color: rgb(255, 255, 255);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    top: 79%;
+    left: 28%;
+    font-size:20px;
+    word-spacing: 2px;
+    text-align: right;
+    overflow: hidden;
+    display: flex;
+    
+
+}
+.verbox1{
+    position:absolute;
+    background-color: #4a9ce4;
+    height: 247px;
+    width: 4px;
+    color: aqua;
+    top: 76%;
+    left: 48%;
+
+}
+.p1{
+    position: absolute;
+    color: rgb(255, 255, 255);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    top: 79%;
+    left: 51%;
+    font-size:20px;
+    word-spacing: 2px;
+    overflow: hidden;
+
+}
+.ABOUT{
+    position: absolute;
+    color: rgb(255, 255, 255);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    top: 67%;
+    left: 43%;
+    font-size:30px;
+
+}
+.b1{
+
+        position: absolute;
+        color: rgb(255, 255, 255);
+        background-color: #6abaff;
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+        top: 42%;
+        left: 61%;
+        font-size:15px;
+        word-spacing: 3px;
+        padding: 3px;
+        padding-left: 10px;
+        padding-right: 10px;
+}
+.h1{
+    position: absolute;
+    color: rgb(255, 255, 255);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    top: 17%;
+    left: 60%;
+    font-size: 70px;
+    overflow: hidden;
+}
+.h2{
+    position: absolute;
+    color: rgb(255, 255, 255);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    top: 25%;
+    left: 60%;
+    font-size:70px;
+    overflow: hidden;
+}
+.hcj{
+    position: absolute;
+    height: 110%;
+    opacity: 100%;
+    left: -200px;
+    top: -15%;
+    overflow: hidden;
+}
+
+.n{
+    position:absolute;
+    top: 30px;
+    height: 600px;
+    width: 1750px;
+    opacity: 100%;
+    left: 4%;
+    opacity: 8%;
+}
+.box1{
+    
+    position:absolute;
+    top: 30px;
+    height: 600px;
+    width: 1750px;
+    background-color:#011627;
+    opacity: 100%;
+    left: 4%;
+    
+}
+.box2{
+    
+    position:absolute;
+    top: 630px;
+    height: 370px;
+    width: 1750px;
+    background-color:#002444;
+    left: 4%;
+    
+}
+
+.container{
+    
+  
+    position:absolute;
+    overflow: hidden;
+    margin-top: -170px;
+    left: 1300px;
+    color: rgb(188, 242, 255);
+    font-size: 20px;
+    float: right;
+    right: 5px;
+    padding:auto;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    top: 220px;
+    
+    
+ 
+}
+.t1{
+    padding: 5%;
+}
+.t1:hover{
+    padding: 5%;
+    text-decoration: underline;
+    cursor:default;
+    color: #ffff;
+}
+.t2{
+    padding: 5%;
+}
+.t2:hover{
+    padding: 5%;
+    text-decoration: underline;
+    cursor:default;
+    color: #ffff;
+}
+.t3{
+    padding: 5%;
+}
+.t3:hover{
+    padding: 5%;
+    text-decoration: underline;
+    cursor:default;
+    color: #ffff;
+    
+}
+.t4{
+    padding: 5%;
+}
+.t4:hover{
+
+padding: 5%;
+text-decoration: underline;
+cursor:default;
+color: #ffff;
+}
+
+@media screen and (max-width: 200px)
+{
+ h1, .container, .abo1, .ABOUT, .b1, .h2,.hcj, .n, .SKILLS{
+   width: 100px;
+ }  
+} 
+.progress-bar {                                   /*  html progress */          
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 120%;
+    left: 9%;
+  
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    background: 
+      radial-gradient(closest-side, rgb(21, 23, 49) 80%, transparent 80% 100%),
+      conic-gradient(#f06529 75%, rgb(80, 81, 139) 0);    
+  }
+  
+  .progress-bar::before {
+    content: "75%";
+    color:aqua;
+  } 
+.html{
+    position: absolute;
+    word-spacing:20px;
+    top: 135%;
+    left: 11%;
+    color: aliceblue;
+    font-size:large;
+    font-weight: normal;
+
+}
+
+.progress-ba {                                 /*  css progress */          
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 120%;
+    left: 20%;
+  
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    background: 
+      radial-gradient(closest-side, rgb(21, 23, 49) 80%, transparent 80% 100%),
+      conic-gradient(#2965f1 70%, rgb(80, 81, 139) 0);    
+  }
+  
+  .progress-ba::before {
+    content: "70%";
+    color:aqua;
+  } 
+.CSS{
+    position: absolute;
+    word-spacing:20px;
+    top: 135%;
+    left: 22.5%;
+    color: aliceblue;
+    font-size:large;
+    font-weight: normal;
+
+}
+.progress-b {                               /*  bootstrap progress */          
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 120%;
+    left: 31%;
+  
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    background: 
+      radial-gradient(closest-side, rgb(21, 23, 49) 80%, transparent 80% 100%),
+      conic-gradient(#ae78ff 75%, rgb(80, 81, 139) 0);    
+  }
+  
+  .progress-b::before {
+    content: "75%";
+    color:aqua;
+  } 
+.BOOT{
+    position: absolute;
+    word-spacing:20px;
+    top: 135%;
+    left: 31.8%;
+    color: aliceblue;
+    font-size:large;
+    font-weight: normal;
+
+}
+/* */
+.progressPYTHON{                      /*  pyhton progress */          
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 120%;
+    left: 42%;
+  
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    background: 
+      radial-gradient(closest-side, rgb(21, 23, 49) 80%, transparent 80% 100%),
+      conic-gradient(#FFD43B 70%, rgb(80, 81, 139) 0);    
+  }
+  
+  .progressPYTHON::before {
+    content: "70%";
+    color:aqua;
+  } 
+.PYHTON{
+    position: absolute;
+    word-spacing:20px;
+    top: 135%;
+    left: 43.5%;
+    color: aliceblue;
+    font-size:large;
+    font-weight: normal;
+
+}
+
+
+
+.progressPHOTOSHOP{                      /*  PHOTOSHOP progress */          
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 145%;
+    left: 9%;
+  
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    background: 
+      radial-gradient(closest-side, rgb(21, 23, 49) 80%, transparent 80% 100%),
+      conic-gradient(#FFD43B 80%, rgb(80, 81, 139) 0);    
+  }
+  
+  .progressPHOTOSHOP::before {
+    content: "80%";
+    color:aqua;
+  } 
+.PHOTO{
+    position: absolute;
+    word-spacing:20px;
+    top: 160%;
+    left: 9.5%;
+    color: aliceblue;
+    font-size:large;
+    font-weight: normal;
+}
+
+.progressPRE{                      /*  PREMIERPRO progress */          
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 145%;
+    left: 20%;
+  
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    background: 
+      radial-gradient(closest-side, rgb(21, 23, 49) 80%, transparent 80% 100%),
+      conic-gradient(#E298F2 80%, rgb(80, 81, 139) 0);    
+  }
+  
+  .progressPRE::before {
+    content: "80%";
+    color:aqua;
+  } 
+.PRE{
+    position: absolute;
+    word-spacing:20px;
+    top: 160%;
+    left: 20%;
+    color: aliceblue;
+    font-size:large;
+    font-weight: normal;
+}
+
+.progressAFE{                      /*  after effects progress */          
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 145%;
+    left: 31%;
+  
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    background: 
+      radial-gradient(closest-side, rgb(21, 23, 49) 80%, transparent 80% 100%),
+      conic-gradient(#CF96FD 65%, rgb(80, 81, 139) 0);    
+  }
+  
+  .progressAFE::before {
+    content: "65%";
+    color:aqua;
+  } 
+.AFE{
+    position: absolute;
+    word-spacing:20px;
+    top: 160%;
+    left: 30.5%;
+    color: aliceblue;
+    font-size:large;
+    font-weight: normal;
+}
+
+.progressFIG{                      /*  FIGMA progress */          
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 145%;
+    left: 42%;
+  
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    background: 
+      radial-gradient(closest-side, rgb(21, 23, 49) 80%, transparent 80% 100%),
+      conic-gradient(#FF3B00 65%, rgb(80, 81, 139) 0);    
+  }
+  
+  .progressFIG::before {
+    content: "65%";
+    color:aqua;
+  } 
+.FIG{
+    position: absolute;
+    word-spacing:20px;
+    top: 160%;
+    left: 44%;
+    color: aliceblue;
+    font-size:large;
+    font-weight: normal;
+}
+
+.img2{                            /* services img 1 */
+    position: absolute;
+    height: 20%;
+    width: 14%;
+    top: 224%;
+    left: 13%;
+    border-radius: 10px;
+}
+.img1{                               /* services img 2 */
+    position: absolute;
+    height: 20%;
+    width: 14%;
+    top: 224%;
+    left: 43%;
+    border-radius: 10px;
+}
+.img3{                               /* services img 3 */
+    position: absolute;
+    height: 20%;
+    width: 14%;
+    top: 224%;
+    left: 73%;
+    border-radius: 10px;
+}
+.picture1{                           /* portfolio picture1 text */
+    position: absolute;
+    top: 250%;
+    left: 11.5%;
+    color:white;
+    text-align: center;
+    font-size:x-large;
+    line-height:135%;
+}
+
+.picture2{                           /* portfolio picture2 text */
+    position: absolute;
+    top: 250%;
+    left: 41.5%;
+    color:white;
+    text-align: center;
+    font-size:x-large;
+    line-height:135%;
+}
+
+.picture3{                           /* portfolio picture3 text */
+    position: absolute;
+    top: 250%;
+    left: 73.5%;
+    color:white;
+    text-align: center;
+    font-size:x-large;
+    line-height:135%;
+}
+
+
+
+
+.video1{                   /* portfolio video */
+    position: absolute;
+    top: 178%;
+    height: 20%;
+    left: 10%;
+    
+}
+.cine{                           /* portfolio video text */
+    position: absolute;
+    top: 198%;
+    left: 15%;
+    color:white;
+    text-align: center;
+}
+
+.video2{                   /* portfolio video 2 */
+    position: absolute;
+    top: 178%;
+    height: 20%;
+    left: 40%;
+    
+}
+
+.video3{                   /* portfolio video 3 */
+    position: absolute;
+    top: 178%;
+    height: 20%;
+    left: 70.7%;
+    
+}
+.uiuxvideo{                           /* portfolio video text2 */
+    position: absolute;
+    top: 198%;
+    left: 46%;
+    color:white;
+    
+}
+
+.net1{                           /* portfolio video text2 */
+    position: absolute;
+    top: 198%;
+    left: 78%;
+    color:white;
+    
+}
+
+.loc{ position: absolute;
+    fill: #69b8fd;
+    height:9%;
+    top: 282%;
+    left: 20%;
+    
+
+}
+.addtext{
+    position: absolute;
+    top: 292%;
+    left: 18%;
+    text-align: center;
+    font-size: medium;
+    color: #ffffff;
+
+}
+.phone{
+    position: absolute;
+    height: 9%;
+    top: 282%;
+    left: 47%;
+    fill: #69b8fd;
+}
+.context{
+    position: absolute;
+    top : 292%;
+    left: 44%;
+    font-size: large;
+    color: white;  
+    text-align: center;
+     
+}
+.conemail{
+    position: absolute;
+    top: 282%;
+    left: 75%;
+    height: 9%;
+    fill: #69b8fd;
+}
+.emailtext{
+    position: absolute;
+    top : 292%;
+    left: 72%;
+    font-size: large;
+    color: white;  
+}
